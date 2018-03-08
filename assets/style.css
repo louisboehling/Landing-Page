@@ -1,0 +1,85 @@
+
+
+.headerBackground { 
+    height: 100%;
+    padding-bottom: 40px;
+    background: linear-gradient(180deg, pink 50%, white 50%);
+}
+
+
+#bioText {
+    margin-top: 150px;
+}
+
+h1 {
+    font-size: 112px;
+    line-height: 100px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: 'Futura', sans-serif;
+}
+
+h3 {
+    font-size: 28px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+p {
+    font-family: 'Cutive Mono', monospace;
+}
+
+/* navbar styles */
+
+.navbar {
+    padding: 60px 0px 60px 0px;
+}
+
+#coffee {
+    max-width: 100%;
+    height: auto;
+    margin: 0px 0px 75px 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.nav-link {
+    font-family: 'Cutive Mono', monospace;
+    text-transform: uppercase;
+    padding-left: 30px; 
+}
+
+/* body */
+
+#portrait {
+    max-width: 100%;
+    height: auto;
+}
+
+#showcase {
+    padding: 75px 0px 0px 75px;
+}
+
+#woman {
+    max-width: 100%;
+    height: auto;
+}
+
+#inlineBody {
+    margin-top: 175px;
+    margin-bottom: 175px;
+}
+
+.galleryBackground {
+    background-color: tan;
+}
+
+#gallery {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.whiteBackground {
+    padding-top: 100px;
+}
